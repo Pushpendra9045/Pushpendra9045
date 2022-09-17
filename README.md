@@ -15,7 +15,7 @@
 <a href="https://instagram.com/pushp.aryan.1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushp.aryan.1234" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rudraksha123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rudraksha123" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pushpendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pushpendra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pushpendra aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushpendra aryan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/push123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushpendra aryan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pushpendra1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pushpendra1234" height="30" width="40" /></a>
 </p>
 
